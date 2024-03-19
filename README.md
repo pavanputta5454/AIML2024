@@ -7,3 +7,4 @@
 #WEEK 2 ASSIGNMENT 1 :https://github.com/pavanputta5454/AIML2024/blob/main/2203A51685_Week2_A1.ipynb
 
 #WEEK 3 ASSIGNMENT 3 https://github.com/pavanputta5454/AIML2024/blob/main/week3_A3__2203A51685.ipynb
+#ML_ASSIGNMENT-1 https://github.com/pavanputta5454/AIML2024/blob/main/2203A51685_ML_Assignment_1.ipynb
